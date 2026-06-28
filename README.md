@@ -1,6 +1,6 @@
 # Titanic Exploratory Data Analysis (EDA)
 
-This project performs an in-depth exploratory data analysis on the classic Titanic dataset. The goal is to identify key factors that influenced passenger survival using data visualization and correlation analysis.
+This project performs an in-depth exploratory data analysis on the classic Titanic dataset (from Kaggle). The goal is to identify key factors that influenced passenger survival using data visualization and correlation analysis.
 
 ## Key Insights
 - **Feature Visualization:** Understanding the distribution of age, fare, and class.
